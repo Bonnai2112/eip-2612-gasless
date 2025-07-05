@@ -209,3 +209,6 @@ relayer eth balance =>  9999.999771728449529364
 wallet usdc balance =>  2900.0
 relayer usdc balance =>  0.0
 recipent usdc balance =>  100.0
+
+# Launch anvil 
+anvil --fork-url https://ethereum-rpc.publicnode.com --fork-block-number 22847371 --block-time 10
